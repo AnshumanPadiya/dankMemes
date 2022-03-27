@@ -49,7 +49,7 @@ const Register = () => {
             />
             <button
               type="submit"
-              className="rounded-xl bg-slate-500 m-2 p-2"
+              className="rounded-xl bg-slate-500 text-slate-100 font-semibold m-2 p-2"
               onClick={(e) => submitHandler(e)}
             >
               Sign-up
