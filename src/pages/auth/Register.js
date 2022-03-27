@@ -17,7 +17,7 @@ const Register = () => {
   return (
     <div>
       <Navbar />
-      <div className="flex justify-center items-center h-[30rem] ">
+      <div className="auth flex justify-center items-center h-[41rem] drop-shadow-lg">
         <div className="flex flex-col justify-center items-center h-[20rem] w-[30rem] bg-slate-50 rounded-lg">
           <h1 className="relative font-semibold text-3xl">Sign-up</h1>
 

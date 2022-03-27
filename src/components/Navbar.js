@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Navbar = () => {
   return (
@@ -8,9 +9,9 @@ const Navbar = () => {
         </div>
         <div className="flex w-full">
             <ul className="flex w-full justify-around">
-                <li>Home</li>
-                <li>Login</li>
-                <li>Signup</li>
+                <Link to="/"><li>Home</li></Link>
+                <Link to="/login"><li>Login</li></Link>
+                <Link to="/register"><li>Signup</li></Link>
             </ul>
         </div>
     </div>

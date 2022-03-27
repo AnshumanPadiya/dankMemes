@@ -1,4 +1,9 @@
 .hero {
     background: url(../public/images/tezos-JNODJbfJAbU-unsplash.jpg);
-    background-size: 100vw 45rem;
+    background-size: 100vw 60rem;
+}
+
+.auth {
+    background: url("../public/images/tezos-NN8ioR6Y88A-unsplash.jpg");
+    background-size: 100vw 60rem;
 }
