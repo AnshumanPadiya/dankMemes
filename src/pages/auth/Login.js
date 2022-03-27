@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import Card from '../../components/Card';
 import Footer from '../../components/Footer';
 import Navbar from '../../components/Navbar';
 
