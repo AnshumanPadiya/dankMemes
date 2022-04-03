@@ -7,7 +7,7 @@ const Navbar2 = () => {
       <div className="w-1/3 pl-16">LOGO</div>
       <div className="flex w-full">
         <ul className="flex w-full justify-around">
-          <Link to="/">
+          <Link to="/home">
             <li>Home</li>
           </Link>
           <Link to="/create">

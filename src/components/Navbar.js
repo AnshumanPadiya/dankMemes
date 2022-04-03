@@ -9,7 +9,7 @@ const Navbar = () => {
         </div>
         <div className="flex w-full">
             <ul className="flex w-full justify-around">
-                <Link to="/"><li>Home</li></Link>
+                <Link to="/home"><li>Home</li></Link>
                 <Link to="/login"><li>Login</li></Link>
                 <Link to="/register"><li>Signup</li></Link>
             </ul>
